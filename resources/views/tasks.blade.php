@@ -27,7 +27,7 @@
             <h5 class="d-block pb-3 pt-1">Name: Dhruvit Rajpura</h5>
         </div>
         <div class="row">
-            <h6 class="d-block pb-3 pt-1">GitHub: Dhruvit Rajpura</h6>
+            <h6 class="d-block pb-3 pt-1">GitHub: https://github.com/dhruvitr/task_manager/tree/master</h6>
         </div>
         
         
